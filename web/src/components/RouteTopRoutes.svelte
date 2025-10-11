@@ -5,7 +5,7 @@
 
 
     let data = [];
-    let endpoint = 'api/stats/routes/routes'
+    let endpoint = 'api/stats/routes/routes?limit=20'
     let loading = true;
     let error = null;
     let interval = null;
