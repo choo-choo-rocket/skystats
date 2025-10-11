@@ -1,3 +1,4 @@
+edit for build testing only
 <div align="center">
     <img src="docs/logo/logo.jpg" width="500px" align="center" alt="sf metadata linter logo" />
 </div>
